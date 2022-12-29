@@ -2,7 +2,7 @@
 <p>TheAlienDoctor's official website, www.TheAlienDoctor.com</p>
 <p>This code is open source for the following reasons:</P>
 <ol>
-<li>Anyone can make (useful!) contributions</li>
+<li>Anyone can make (useful) contributions</li>
 <li>It makes collabing easier</li>
 <h2><p>Contributing<p></h2>
 <ul>
